@@ -1,6 +1,3 @@
-# Claude Code workspace — never commit
-.claude/
-
 # Python
 __pycache__/
 *.py[cod]
